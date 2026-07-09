@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+*.log
+outputs/
+temp_moss_tts/
+test-results/
+tsconfig.tsbuildinfo
+*.mp3
+*.wav
+models/
+
